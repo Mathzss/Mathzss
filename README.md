@@ -31,11 +31,9 @@
 
 ### ✨ Um pouco sobre mim
 
-```js
-const dev = {
   nome: "Victor Matheus Seifert",
   idade: 20,
   linguagens: ["JavaScript", "JAVA", "HTML", "CSS", "Node.js"],
   focos: ["UI/UX", "automação", "aplicações web"],
   objetivo: "Criar soluções funcionais, elegantes e inteligentes 🚀"
-}
+
