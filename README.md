@@ -3,7 +3,7 @@
 <p align="center">
   🚀 Desenvolvedor WEB focado em soluções modernas e funcionais <br>
   💡 Amante de tecnologia, UI/UX, automação e aplicações web <br>
-  🧠 Tenho 20 anos e estou sempre buscando evoluir no mundo da programação!
+  🧠 Tenho 21 anos e estou sempre buscando evoluir no mundo da programação!
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ```js
 const victor = {
   nome: "Victor Matheus Seifert",
-  idade: 20,
+  idade: 21,
   linguagens: ["JavaScript", "JAVA", "HTML", "CSS", "Node.js"],
   focos: ["UI/UX", "automação", "aplicações web"],
   objetivo: "Criar soluções funcionais, elegantes e inteligentes 🚀"
