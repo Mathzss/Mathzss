@@ -23,8 +23,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mathzss&show_icons=true&theme=radical&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathzss&layout=compact&theme=radical" height="170"/>
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DMathzss%26theme%3Dradical" alt="GitHub Streak" />
 </p>
 
 ---
