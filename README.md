@@ -45,6 +45,5 @@ const victor = {
   role: "Co-founder & Full Stack Developer @Fascode",
   techStack: ["Java/Spring Boot", "React", "Node.js"],
   projects: ["HeroMode", "Eletro-Aririu", "MedGestor"],
-  hobbies: ["Grêmio FBPA 💙", "Valorant", "Anime"],
   status: "Building impactful software 🚀"
 };
