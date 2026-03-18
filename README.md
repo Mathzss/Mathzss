@@ -1,7 +1,7 @@
 <h1 align="center">Fala dev! 👋 Eu sou o Victor Matheus Seifert</h1>
 
 <p align="center">
-  🚀 <b>Full Stack Developer | Co-founder @ <a href="https://fascode.dev.br">Fascode</a></b> <br>
+  🚀 <b>Full Stack Developer | Co-founder @ <a href="https://fascode.com.br">Fascode</a></b> <br>
   💡 Especialista em soluções SaaS, UI/UX e arquitetura moderna <br>
   🧠 21 anos | Florianópolis - SC | Criando o futuro via código
 </p>
