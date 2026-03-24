@@ -21,12 +21,12 @@
   <tr>
     <td>
       <a href="https://github.com/Mathzss/Fascode_Website">
-        <img width="395px" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathzss&repo=Fascode_Website&theme=radical&show_owner=false" />
+        <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathzss&repo=Fascode_Website&theme=radical&show_owner=false" />
       </a>
     </td>
     <td>
       <a href="https://github.com/Mathzss/eletro-aririu">
-        <img width="395px" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathzss&repo=eletro-aririu&theme=radical&show_owner=false" />
+        <img width="350px" src="https://github-readme-stats.vercel.app/api/pin/?username=Mathzss&repo=eletro-aririu&theme=radical&show_owner=false" />
       </a>
     </td>
   </tr>
@@ -37,9 +37,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=Mathzss&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="145em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mathzss&theme=radical&hide_border=true" />
-  <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathzss&layout=compact&langs_count=6&theme=radical&hide_border=true&hide=html,css,shell"/>
+  <img height="115em" src="https://github-readme-stats.vercel.app/api?username=Mathzss&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="115em" src="https://github-readme-streak-stats.herokuapp.com/?user=Mathzss&theme=radical&hide_border=true" />
+  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mathzss&layout=compact&langs_count=6&theme=radical&hide_border=true&hide=html,css,shell"/>
 </p>
 
 ---
