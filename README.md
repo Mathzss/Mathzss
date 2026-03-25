@@ -2,8 +2,9 @@
   <h1>Fala dev! 👋 Eu sou o Victor Matheus Seifert</h1>
 
   <a href="https://fascode.com.br">
-    <img src="https://img.shields.io/static/v1?label=Fascode&message=CO-FOUNDER+%26+CINO&color=007AFF&style=flat-square&logo=rocket" alt="Fascode Co-founder & CINO" height="28px" />
+    <img src="https://img.shields.io/badge/Fascode-Co--founder%20%26%20CINO-007AFF?style=for-the-badge&logo=rocket&logoColor=white" alt="Fascode Co-founder & CINO" />
   </a>
+</div>
   <p>
     🚀 <b>Full Stack Developer | Co-founder & CINO @ <a href="https://fascode.com.br">Fascode</a></b> <br>
     💡 Especialista em soluções SaaS, UI/UX e arquitetura moderna <br>
