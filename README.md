@@ -16,7 +16,7 @@
 
 ---
 
-### 📂 Meus Repositórios Principais
+### 📂 Meus Repositórios Principaiis
 
 <table align="center">
   <tr>
